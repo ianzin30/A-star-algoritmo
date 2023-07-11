@@ -232,7 +232,7 @@ print("END")
 
 
 
-print("\n\nIAN É VERME")
+print("\n\nIAN É UM VERME")
 
 #vc colocou no github ja?
 #n, nem vou seu preguiçoso
